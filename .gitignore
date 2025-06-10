@@ -1,15 +1,2 @@
-# Go build artifacts
-*.exe
-*.out
-*.log
-
-# Vendor directory
-vendor/
-
-# IDE-specific files
-.vscode/
-.idea/
-
-# OS-specific files
-.DS_Store
-Thumbs.db
+pokedexcli
+repl.log
